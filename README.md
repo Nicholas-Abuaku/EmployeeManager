@@ -1,6 +1,6 @@
 # EmployeeManager
 Employee Management WebApp
-
+The default login for the WebApp is: username:"admin" password:"admin"
 ## Setup
 You will need to create a MySQL database called "springbootwebapp"
 * Next, in src/main/resources/application.properties configure the following:
